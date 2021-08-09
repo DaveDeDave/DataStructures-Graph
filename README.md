@@ -3,13 +3,16 @@ This is a basic implementation of the graph data structure in c. This project is
 
 ## Compile and run test
 Move to the project folder and the type on your terminal:
-> $ make
->
-> $ valgrind --tool=memcheck --leak-check=full ./bin/graphTest
+```
+$ make
+$ valgrind --tool=memcheck --leak-check=full ./bin/graphTest
+```
 
 ## Generate doxygen documentation
 Move to the project folder and the type on your terminal:
-> $ doxygen doxygen
+```
+$ doxygen doxygen
+```
 
 ## This project contains
 - All graph basic operations
