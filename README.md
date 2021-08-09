@@ -1,4 +1,4 @@
-# DataStrucutes-Graph
+# DataStructures-Graph
 This is a basic implementation of the graph data structure in c. This project is provided with a series of tests and doxygen documentation.
 
 ## Compile and run test
